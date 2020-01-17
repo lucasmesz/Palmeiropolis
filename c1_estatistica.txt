@@ -1,0 +1,17 @@
+Variaveis; Cu (%); Pb (%); Zn (%);
+Total de amostras; 479; 473; 481;
+Minimo; 0.01; 0.01; 0.01;
+Maximo; 9.07; 7.8; 25.6;
+Media; 0.994; 1.093; 3.879;
+Variancia; 1.821; 1.946; 31.552;
+Desvio-padrão; 1.349; 1.395; 5.617;
+Coeficiente de variação; 1.357; 1.277; 1.448;
+Obliquidade; 3.202; 1.908; 2.006;
+Curtose; 13.428; 3.223; 3.224;
+5% percentil; 0.04; 0.04; 0.094;
+10% percentil; 0.093; 0.06; 0.2;
+25% percentil; 0.22; 0.19; 0.55;
+50% percentil; 0.53; 0.5; 1.4;
+75% percentil; 1.2; 1.3; 4.16;
+90% percentil; 2.5; 3.14; 13.1;
+95% percentil; 3.4; 4.4; 17.288;
